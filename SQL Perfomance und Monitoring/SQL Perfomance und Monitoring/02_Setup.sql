@@ -51,7 +51,7 @@ DS kommen in Seiten .. Seiten werden in Blöcken (8 Seiten)
 
 
 
-
+--Reporting: Ressource Governor!
 
 
 
@@ -62,6 +62,36 @@ CPU  MAXDOP
 schulung\Administrator
 ppedv2019!
 
+
+
+Kontrolle des HV-SQL1
+
+
+MAXDOP
+im Setup: Anzahl der Kerne max 8
+
+
+MAX RAM
+doof.. akt Wert 2,1PB  ?? sollte eher 3500..und gilt sofort
+
+MIN RAM
+der Wert gilt erst, wenn er erreicht wurde
+eigtl erst dann wenn Konkurrenz (2te Instanz, andere Software)
+Task Manager: Max Arbeitssatz = Peek Wert = Min RAM
+
+
+DB Pfade
+
+Tempdb Dateien
+
+2 Dateien fehlen .. muss man nachholen
+
+
+
+
+
+
+SSMS akt Version 18.10 (+Azure Data Studio)
 
 
 */
