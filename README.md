@@ -10,8 +10,12 @@
 
 # Tag 2
  
+* Partitionierung / part Sicht
+* Einrichten Monitoring Prodiler / Perfmon
+* Indizes - Plan lesen - Messungen
+* IX Wartung
+* Tuning Advisor
+* Auflösung Monitoring / DMVs
+* Ressource Governor
 
 
- Fumus ist der Andreas Rauch ;-) 
-
- Fumus [lat: für Rauch]
