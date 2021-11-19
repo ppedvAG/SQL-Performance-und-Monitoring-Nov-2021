@@ -62,8 +62,8 @@
           <FullPath>05_MAXDOP.sql</FullPath>
         </FileNode>
         <FileNode Name="06_KOmpression.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>06_KOmpression.sql</FullPath>
         </FileNode>
@@ -85,6 +85,18 @@
           <AssociatedConnUserName />
           <FullPath>09_Indizes.sql</FullPath>
         </FileNode>
+        <FileNode Name="09_Inidzes und Probleme.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_Inidzes und Probleme.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09_IX_Wartung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09_IX_Wartung.sql</FullPath>
+        </FileNode>
         <FileNode Name="Fix_VLF.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -97,11 +109,83 @@
           <AssociatedConnUserName />
           <FullPath>Glenn Berry DMVs.sql</FullPath>
         </FileNode>
+        <FileNode Name="RessControl_Hans.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControl_Hans.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RessControl_Peter.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControl_Peter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RessControl_Pool und Guppen einrichten.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControl_Pool und Guppen einrichten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RessControl_Sichten.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControl_Sichten.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RessControl_Susi.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControl_Susi.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RessControll_Setup.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RessControll_Setup.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ressource zuweisen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ressource zuweisen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Überflüssige Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Überflüssige Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="X_Fehlende Indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>X_Fehlende Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="x_QueryStrore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>x_QueryStrore.sql</FullPath>
+        </FileNode>
         <FileNode Name="X_Wiederholung.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>X_Wiederholung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="z_instnwnd.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>z_instnwnd.sql</FullPath>
+        </FileNode>
+        <FileNode Name="z_Perfmon_Indikatoren.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>z_Perfmon_Indikatoren.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
