@@ -109,6 +109,19 @@ dbcc showcontig('TABELLE')
 
 --Partitionierung
 
+--Tools (Extra) -Optionen -- Designer _ Verbindern von Löschen deaktivieren /atkivieren
+
+
+
+------------------100------------------------200-------------------
+--    1                            2                        3
+
+
+f(117)--> 2
+
+Schema (--> f(117) --2 ) ---> DG2
+Tabvellen liegen auf einem Schema..
+
 
 
 
